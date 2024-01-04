@@ -8,7 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Live Link : https://project-shopping-omi.netlify.app/login
+Live Link : https://project-shopping-omi.netlify.app/
 API Used: 1) https://dummyjson.com/docs/auth (For Authentication)
           2) https://dummyjson.com/docs/products (For Products)
 Username: kminchelle
